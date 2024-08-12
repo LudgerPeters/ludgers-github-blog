@@ -6,6 +6,7 @@ menu:
   Home: /
   About: /about/me
   Archives: /archives
+  Website Repo: https://github.com/LudgerPeters/ludgers-github-blog
 # RSS link
 rss: /atom.xml
 # Path of title banner image of page top
